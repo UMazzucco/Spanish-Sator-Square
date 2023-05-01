@@ -12,7 +12,7 @@ El cuadrado de Sator es símbolo, de primera aparición como una incripción en 
 
 Se trata de un arreglo linguístico de 5 palabras: "Sator", "Arepo", "Tenet", "Opera", "Rotas".
 Esta frase se puede traducir del latín como "El granjero Arepo maneja las ruedas con habilidad".
-La característica peculiar de estas palabras, es que se puede leer en todas direcciones. Si trazamos cada letra como un elemento en una matriz de 5x5, podemos decir que tiene la siguiente estructura:
+La característica peculiar de estas palabras, es que se puede leer en todas direcciones. Si trazamos cada letra como un elemento en una matriz de 5x5, podemos decir que tiene la siguiente estructura:\
 [a1 a2 a3 a4 a5]\
 [a2 b1 b2 b3 a4]\
 [a3 b2 c1 b2 a3]\
