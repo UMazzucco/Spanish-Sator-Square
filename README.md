@@ -17,7 +17,7 @@ La característica peculiar de estas palabras, es que se puede leer en todas dir
 [a2 b1 b2 b3 a4]\
 [a3 b2 c1 b2 a3]\
 [a4 b3 b2 b1 a2]\
-[a5 a4 a3 a2 a1]\
+[a5 a4 a3 a2 a1]
 
 ## Objetivo
 
