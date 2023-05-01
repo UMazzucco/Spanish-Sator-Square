@@ -6,8 +6,10 @@ Pequeño código para buscar un Cuadrado de Sator en idioma Español.
 
 ## Marco Teórico
 
-El cuadrado de Sator es símbolo, de primera aparición como una incripción en pared en Pompeya bajo las cenizas de la erupción del Vesubio del 79 d.C.\
-<img src='https://user-images.githubusercontent.com/103452945/235533355-2273e78a-0260-4b87-b62a-3c6bcd6d98a9.jpg' width='300' height='300'>\
+El cuadrado de Sator es símbolo, de primera aparición como una incripción en pared en Pompeya bajo las cenizas de la erupción del Vesubio del 79 d.C.
+
+<img src='https://user-images.githubusercontent.com/103452945/235533355-2273e78a-0260-4b87-b62a-3c6bcd6d98a9.jpg' width='300' height='300'>
+
 Se trata de un arreglo linguístico de 5 palabras: "Sator", "Arepo", "Tenet", "Opera", "Rotas".
 Esta frase se puede traducir del latín como "El granjero Arepo maneja las ruedas con habilidad".
 La característica peculiar de estas palabras, es que se puede leer en todas direcciones. Si trazamos cada letra como un elemento en una matriz de 5x5, podemos decir que tiene la siguiente estructura:
